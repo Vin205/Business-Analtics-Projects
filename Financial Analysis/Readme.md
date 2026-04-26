@@ -45,7 +45,8 @@ Year-over-Year (YoY) Sales Comparison
 Previous Year vs Current Year analysis
 
 📉 Report Development
-🔑 KPIs
+
+🔑 KPIs -
 Total Sales
 Total Profit
 Profit Margin
@@ -71,3 +72,8 @@ Identified peak sales periods
 Detected segments with negative profitability
 Highlighted best-selling products
 Evaluated impact of discounts on profit margins
+
+
+
+<img width="1224" height="707" alt="Screenshot 2026-04-26 174513" src="https://github.com/user-attachments/assets/affcf9dc-43b9-4c22-8c16-c3a20b7fd5ed" />
+
